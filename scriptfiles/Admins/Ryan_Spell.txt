@@ -1,0 +1,211 @@
+[2013/6/28 - 21:6:30] Ingresó
+[2013/6/28 - 21:6:55] se puso en servicio.
+[2013/6/28 - 21:7:17] salió de servicio.
+[2013/6/28 - 21:7:18] se puso en servicio.
+[2013/6/28 - 21:7:20] salió de servicio.
+[2013/6/28 - 21:8:26] se puso en servicio.
+[2013/6/28 - 21:10:15] se desconectó (Voluntariamente)
+[2013/6/28 - 21:11:40] Ingresó
+[2013/6/28 - 21:12:59] se puso en servicio.
+[2013/6/28 - 21:13:38] ===========[ HORARIO: 21hs - 22hs ]===========
+[2013/6/28 - 21:13:49] salió de servicio.
+[2013/6/28 - 21:13:51] se puso en servicio.
+[2013/6/28 - 21:13:58] salió de servicio.
+[2013/6/28 - 21:14:10] ===========[ HORARIO: 22hs - 23hs ]===========
+[2013/6/28 - 21:14:15] se puso en servicio.
+[2013/6/28 - 21:14:25] ===========[ HORARIO: 1hs - 2hs ]===========
+[2013/6/28 - 21:14:26] salió de servicio.
+[2013/6/28 - 21:14:27] se puso en servicio.
+[2013/6/28 - 21:14:46] ===========[ HORARIO: 1hs - 22hs ]===========
+[2013/6/28 - 21:15:22] salió de servicio por: "Me duele la zapan xD" 
+[2013/6/28 - 21:16:35] se puso en servicio.
+[2013/6/28 - 21:16:46] salió de servicio por: "WENO PERDON :(" 
+[2013/6/28 - 21:17:43] se desconectó (Kickeado/Baneado)
+[2013/6/28 - 21:19:13] Ingresó
+[2013/6/28 - 21:19:17] se puso en servicio.
+[2013/6/28 - 21:19:31] salió de servicio por: "sorry :ASDSAD ad a" 
+[2013/6/28 - 21:20:11] ===========[ HORARIO: 21hs - 22hs ]===========
+[2013/6/28 - 21:20:13] se puso en servicio.
+[2013/6/28 - 21:20:20] salió de servicio.
+[2013/6/28 - 21:20:22] se puso en servicio.
+[2013/6/28 - 21:20:26] salió de servicio.
+[2013/6/28 - 21:20:27] se puso en servicio.
+[2013/6/28 - 21:20:39] se desconectó (Kickeado/Baneado)
+[2013/6/28 - 21:25:5] Ingresó
+[2013/6/28 - 21:25:8] se puso en servicio.
+[2013/6/28 - 21:25:31] salió de servicio por: "Debo irme, luego vuelvo!!" 
+[2013/6/28 - 21:26:23] ===========[ HORARIO: 21hs - 22hs ]===========
+[2013/6/28 - 21:26:27] se puso en servicio.
+[2013/6/28 - 21:26:35] ===========[ HORARIO: 21hs - 21hs ]===========
+[2013/6/28 - 21:35:16] se desconectó (Voluntariamente)
+[2013/6/29 - 0:8:32] Ingresó
+[2013/6/29 - 0:8:42] se puso en servicio.
+[2013/6/29 - 0:22:31] se desconectó (Kickeado/Baneado)
+[2013/6/29 - 0:25:5] Ingresó
+[2013/6/29 - 0:26:22] se puso en servicio.
+[2013/6/29 - 0:36:13] se desconectó (Voluntariamente)
+[2013/6/29 - 3:26:39] Ingresó
+[2013/6/29 - 3:26:52] se desconectó (Kickeado/Baneado)
+[2013/6/29 - 17:42:21] Ingresó
+[2013/6/29 - 17:42:28] se puso en servicio.
+[2013/6/29 - 17:48:11] se desconectó (Kickeado/Baneado)
+[2013/6/29 - 17:49:0] Ingresó
+[2013/6/29 - 17:50:59] se puso en servicio.
+[2013/6/29 - 17:55:19] se desconectó (Voluntariamente)
+[2013/6/29 - 18:1:22] Ingresó
+[2013/6/29 - 18:1:26] se puso en servicio.
+[2013/6/29 - 18:2:57] se desconectó (Voluntariamente)
+[2013/6/29 - 18:4:37] Ingresó
+[2013/6/29 - 18:5:0] se puso en servicio.
+[2013/6/29 - 18:5:14] se desconectó (Voluntariamente)
+[2013/6/30 - 21:34:37] Ingresó
+[2013/6/30 - 21:34:51] se puso en servicio.
+[2013/6/30 - 21:41:46] se desconectó (Voluntariamente)
+[2013/6/30 - 22:49:33] Ingresó
+[2013/6/30 - 22:49:39] se puso en servicio.
+[2013/6/30 - 22:49:40] salió de servicio.
+[2013/6/30 - 22:49:55] se puso en servicio.
+[2013/6/30 - 22:50:6] salió de servicio.
+[2013/6/30 - 22:50:9] se puso en servicio.
+[2013/6/30 - 22:56:46] se desconectó (Voluntariamente)
+[2013/6/30 - 22:58:27] Ingresó
+[2013/6/30 - 22:58:32] se puso en servicio.
+[2013/6/30 - 23:6:15] se desconectó (Voluntariamente)
+[2013/6/30 - 23:18:9] Ingresó
+[2013/6/30 - 23:18:21] se puso en servicio.
+[2013/6/30 - 23:18:26] salió de servicio.
+[2013/6/30 - 23:19:12] se desconectó (Voluntariamente)
+[2013/6/30 - 23:20:20] Ingresó
+[2013/6/30 - 23:21:2] se desconectó (Voluntariamente)
+[2013/7/1 - 23:25:2] Ingresó
+[2013/7/1 - 23:25:16] se puso en servicio.
+[2013/7/1 - 23:26:56] se desconectó (Voluntariamente)
+[2013/7/1 - 23:32:56] Ingresó
+[2013/7/1 - 23:34:14] se puso en servicio.
+[2013/7/1 - 23:39:32] salió de servicio.
+[2013/7/1 - 23:46:51] se puso en servicio.
+[2013/7/1 - 23:51:34] se desconectó (Voluntariamente)
+[2013/7/1 - 23:56:10] Ingresó
+[2013/7/2 - 0:6:12] se puso en servicio.
+[2013/7/2 - 0:7:32] salió de servicio.
+[2013/7/2 - 0:7:42] se puso en servicio.
+[2013/7/2 - 0:31:4] se desconectó (Voluntariamente)
+[2013/10/2 - 20:32:7] Ingresó
+[2013/10/2 - 20:32:12] se puso en servicio.
+[2013/10/2 - 20:39:34] se desconectó (Voluntariamente)
+[2013/10/2 - 20:50:41] Ingresó
+[2013/10/2 - 20:50:46] se puso en servicio.
+[2013/10/2 - 21:10:42] se desconectó (Voluntariamente)
+[2013/10/2 - 21:46:5] Ingresó
+[2013/10/2 - 21:46:10] se puso en servicio.
+[2013/10/2 - 21:52:2] se desconectó (Voluntariamente)
+[2013/10/2 - 23:37:4] Ingresó
+[2013/10/2 - 23:40:12] se puso en servicio.
+[2013/10/3 - 0:19:34] se desconectó (Kickeado/Baneado)
+[2013/7/3 - 13:40:24] Ingresó
+[2013/7/3 - 13:41:38] se desconectó (Kickeado/Baneado)
+[2013/7/3 - 13:44:39] Ingresó
+[2013/7/3 - 13:48:21] se puso en servicio.
+[2013/7/3 - 13:48:23] salió de servicio.
+[2013/7/3 - 13:51:45] se puso en servicio.
+[2013/7/3 - 13:52:9] salió de servicio.
+[2013/7/3 - 14:0:2] se puso en servicio.
+[2013/7/3 - 15:59:30] se desconectó (Kickeado/Baneado)
+[2013/7/3 - 16:10:57] Ingresó
+[2013/7/3 - 16:11:3] se puso en servicio.
+[2013/7/3 - 16:44:50] se desconectó (Voluntariamente)
+[2013/7/3 - 19:27:25] Ingresó
+[2013/7/3 - 19:28:51] se puso en servicio.
+[2013/7/3 - 19:38:58] se desconectó (Voluntariamente)
+[2013/7/3 - 21:9:16] Ingresó
+[2013/7/3 - 21:9:20] se puso en servicio.
+[2013/7/3 - 21:19:22] se desconectó (Voluntariamente)
+[2013/7/3 - 21:23:21] Ingresó
+[2013/7/3 - 21:23:23] se puso en servicio.
+[2013/7/3 - 21:29:9] se desconectó (Voluntariamente)
+[2013/7/5 - 14:44:54] Ingresó
+[2013/7/5 - 14:51:12] se puso en servicio.
+[2013/7/5 - 14:56:2] se desconectó (Voluntariamente)
+[2013/7/5 - 15:58:27] Ingresó
+[2013/7/5 - 15:58:30] se puso en servicio.
+[2013/7/5 - 15:59:44] se desconectó (Voluntariamente)
+[2013/7/5 - 16:1:40] Ingresó
+[2013/7/5 - 16:2:11] se puso en servicio.
+[2013/7/5 - 16:2:28] se desconectó (Voluntariamente)
+[2013/7/5 - 16:4:10] Ingresó
+[2013/7/5 - 16:5:25] se desconectó (Voluntariamente)
+[2013/7/5 - 16:11:16] Ingresó
+[2013/7/5 - 16:12:6] se desconectó (Voluntariamente)
+[2013/7/5 - 16:54:33] Ingresó
+[2013/7/5 - 16:55:18] se desconectó (Voluntariamente)
+[2013/7/5 - 16:57:29] Ingresó
+[2013/7/5 - 16:58:1] se desconectó (Voluntariamente)
+[2013/7/5 - 17:0:49] Ingresó
+[2013/7/5 - 17:3:32] se desconectó (Voluntariamente)
+[2013/7/5 - 17:6:26] Ingresó
+[2013/7/5 - 17:8:2] se puso en servicio.
+[2013/7/5 - 17:16:13] se desconectó (Voluntariamente)
+[2013/7/5 - 17:40:23] Ingresó
+[2013/7/5 - 17:42:12] se puso en servicio.
+[2013/7/5 - 17:43:39] salió de servicio.
+[2013/7/5 - 17:43:41] se puso en servicio.
+[2013/7/5 - 17:46:3] se desconectó (Voluntariamente)
+[2013/7/5 - 17:49:26] Ingresó
+[2013/7/5 - 17:51:8] se desconectó (Voluntariamente)
+[2013/7/5 - 17:53:24] Ingresó
+[2013/7/5 - 17:57:42] se puso en servicio.
+[2013/7/5 - 19:14:10] se desconectó (Voluntariamente)
+[2013/7/5 - 21:25:25] Ingresó
+[2013/7/5 - 21:25:31] se puso en servicio.
+[2013/7/5 - 21:36:5] se desconectó (Voluntariamente)
+[2013/7/6 - 23:57:45] Ingresó
+[2013/7/6 - 23:58:4] se puso en servicio.
+[2013/7/7 - 0:0:26] se desconectó (Voluntariamente)
+[2013/7/7 - 0:1:40] Ingresó
+[2013/7/7 - 0:1:51] se puso en servicio.
+[2013/7/7 - 0:8:7] se desconectó (Voluntariamente)
+[2013/7/7 - 0:9:17] Ingresó
+[2013/7/7 - 0:13:55] se desconectó (Voluntariamente)
+[2013/7/7 - 0:15:48] Ingresó
+[2013/7/7 - 0:22:33] Ingresó
+[2013/7/7 - 0:30:52] se desconectó (Voluntariamente)
+[2013/7/7 - 2:20:36] Ingresó
+[2013/7/7 - 2:20:52] se puso en servicio.
+[2013/7/7 - 2:21:52] se desconectó (Voluntariamente)
+[2013/7/7 - 2:23:32] Ingresó
+[2013/7/7 - 2:24:42] se puso en servicio.
+[2013/7/7 - 2:24:57] se desconectó (Voluntariamente)
+[2013/7/7 - 2:35:6] Ingresó
+[2013/7/7 - 2:35:36] se puso en servicio.
+[2013/7/7 - 2:36:8] se desconectó (Voluntariamente)
+[2013/7/7 - 2:37:32] Ingresó
+[2013/7/7 - 2:38:3] se puso en servicio.
+[2013/7/7 - 2:38:27] se desconectó (Voluntariamente)
+[2013/7/7 - 2:39:9] Ingresó
+[2013/7/7 - 2:39:56] se desconectó (Voluntariamente)
+[2013/7/7 - 2:40:43] Ingresó
+[2013/7/7 - 2:41:22] se desconectó (Voluntariamente)
+[2015/10/18 - 16:50:40] Ingresó
+[2015/10/18 - 16:51:8] se puso en servicio.
+[2015/10/18 - 17:25:42] Ingresó
+[2015/10/18 - 17:25:48] se puso en servicio.
+[2015/10/18 - 18:0:16] se desconectó (Voluntariamente)
+[2015/10/18 - 18:58:22] Ingresó
+[2015/10/18 - 19:0:16] se puso en servicio.
+[2015/10/18 - 19:4:36] se desconectó (Voluntariamente)
+[2015/10/18 - 19:5:55] Ingresó
+[2015/10/18 - 19:6:3] se puso en servicio.
+[2015/10/18 - 19:18:41] se desconectó (Voluntariamente)
+[2015/10/21 - 14:26:2] Ingresó
+[2015/10/21 - 14:30:53] se puso en servicio.
+[2015/10/21 - 14:47:53] se desconectó (Voluntariamente)
+[2015/10/21 - 14:49:0] Ingresó
+[2015/10/21 - 14:49:3] se puso en servicio.
+[2015/10/21 - 15:20:22] se desconectó (Voluntariamente)
+[2015/10/21 - 16:48:29] Ingresó
+[2015/10/21 - 17:3:47] se puso en servicio.
+[2015/10/21 - 17:4:3] salió de servicio.
+[2015/10/21 - 17:4:59] se puso en servicio.
+[2015/10/21 - 17:26:17] Ingresó
+[2015/10/21 - 17:26:56] se desconectó (Voluntariamente)
+[2015/10/21 - 17:30:48] se desconectó (Voluntariamente)

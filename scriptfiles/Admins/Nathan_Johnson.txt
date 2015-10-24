@@ -1,0 +1,8 @@
+[2013/7/1 - 23:42:24] Ingresó
+[2013/7/1 - 23:42:47] se puso en servicio.
+[2013/7/1 - 23:44:22] salió de servicio.
+[2013/7/1 - 23:47:18] se puso en servicio.
+[2013/7/1 - 23:51:33] se desconectó (Kickeado/Baneado)
+[2013/7/1 - 23:55:53] Ingresó
+[2013/7/1 - 23:55:58] se puso en servicio.
+[2013/7/2 - 0:31:42] se desconectó (Voluntariamente)
