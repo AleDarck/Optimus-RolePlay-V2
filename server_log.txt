@@ -724,3 +724,471 @@ v0.3.7, (C)2005-2015 SA-MP Team
 [16:38:12] - Cuentas actualizadas: [1 CUENTAS | TIEMPO: 10 MS | 1 JUGADORES]
 [16:39:19] - Cuentas actualizadas: [1 CUENTAS | TIEMPO: 7 MS | 1 JUGADORES]
 [16:39:29] [part] Gustavo_Herrera has left the server (1:1)
+[16:53:51] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[03:36:43] filterscripts = ""  (string)
+[03:36:43] 
+[03:36:43] Server Plugins
+[03:36:43] --------------
+[03:36:43]  Loading plugin: sscanf
+[03:36:43] 
+
+[03:36:43]  ===============================
+
+[03:36:43]       sscanf plugin loaded.     
+
+[03:36:43]          Version:  2.8.1        
+
+[03:36:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:36:43]  ===============================
+
+[03:36:43]   Loaded.
+[03:36:43]  Loading plugin: streamer
+[03:36:44] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[03:36:44]   Loaded.
+[03:36:44]  Loading plugin: crashdetect
+[03:36:44]   CrashDetect v4.10 is OK.
+[03:36:44]   Loaded.
+[03:36:44]  Loading plugin: fixes2
+[03:36:44] 
+
+[03:36:44]  ===============================
+
+[03:36:44]        fixes plugin loaded.     
+
+[03:36:44]    (c) 2012 Alex "Y_Less" Cole
+
+[03:36:44]  ===============================
+
+[03:36:44]   Loaded.
+[03:36:44]  Loaded 4 plugins.
+
+[03:36:44] 
+[03:36:44] Filterscripts
+[03:36:44] ---------------
+[03:36:44]   Loaded 0 filterscripts.
+
+[03:36:45]  
+[03:36:45]  
+[03:36:45]  
+[03:36:45]  ======================================= 
+[03:36:45]  |                                     | 
+[03:36:45]  |        YSI version 1.06.0002        | 
+[03:36:45]  |        By Alex "Y_Less" Cole        | 
+[03:36:45]  |                                     | 
+[03:36:45]  ======================================= 
+[03:36:45]  
+[03:36:45]  
+[03:36:45]  
+[03:36:45] *- Sistema de vehículos cargado (125)
+[03:36:45] *- Sistema de negocios cargado (25)
+[03:36:46] *- Sistema de casas cargado (174)
+[03:36:46] *- Sistema de interiores [CASAS] cargado (18)
+[03:36:46] *- Sistema de familias cargado (5)
+[03:36:46] *- Sistema de garages cargado (64)
+[03:36:47] *- Sistema de portones cargado.
+[03:36:47] *- Sistema de televisores cargado.
+[03:36:47] *- Sistema de modelos cargado. (0.3x)
+[03:36:47] *- Sistema de gangzones cargado.
+[03:36:47] *- Los minerales fueron creados.
+[03:36:47] *- El sistema de NPC fue cargado, conectando Bots..
+[03:36:48] ==============================================
+[03:36:48] *- Todos los npc fueron creados.
+[03:36:48] ==============================================
+[03:36:48]  
+[03:36:48] 	==============================================================
+[03:36:48] 	|                                                            |
+[03:36:48] 	|    Gamemode Optimus RolePlay [2013] Versión: v2-final      |
+[03:36:48] 	|                                                            |
+[03:36:48] 	|    » Programado por Spell <leandro.barbero@hotmail.com>    |
+[03:36:48] 	|                                                            |
+[03:36:48] 	| Copyright 2012-2016 - Todos los derechos reservados        |
+[03:36:48] 	|                                                            |
+[03:36:48] 	==============================================================
+[03:36:48]  
+[03:36:48] *- Gamemode fue cargado en 2930 milisegundos.
+
+
+[03:36:48] Number of vehicle models: 117
+[03:36:48]  
+[03:36:48]  ========================================== 
+[03:36:48]  |                                        | 
+[03:36:48]  |  A new version (v3.09.0684) of YSI is  | 
+[03:36:48]  |            available from:             | 
+[03:36:48]  |                                        | 
+[03:36:48]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[03:36:48]  |                                        | 
+[03:36:48]  | Changelog:                             | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   3.00.0000:                           | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   YSI 3.0 released!  Now includes the  | 
+[03:36:48]  | "y_text" library for better messages,  | 
+[03:36:48]  | and a reworked "y_classes" library.    | 
+[03:36:48]  | Largely documented here                | 
+[03:36:48]  | "http://forum.sa-mp.com/showthread.php | 
+[03:36:48] [connection] 127.0.0.1:60594 requests connection cookie.
+[03:36:48]  | ?t=321092".                            | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   3.01.0002:                           | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   Small fixes to "y_text" and          | 
+[03:36:48]  | "y_classes".                           | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   3.09.0684:                           | 
+[03:36:48]  |                                        | 
+[03:36:48]  |   Reverted to old download location.   | 
+[03:36:48]  | Improved (and fixed) version checks;   | 
+[03:36:48]  | added y_bitmap, y_areas, y_races,      | 
+[03:36:48]  | y_zonenames, better documentation;     | 
+[03:36:48]  | MANY other bug fixes - see the github  | 
+[03:36:48]  | repository for more details:           | 
+[03:36:48]  |                                        | 
+[03:36:48]  ========================================== 
+[03:36:48]  
+[03:36:49] Incoming connection: 127.0.0.1:60594 id: 0
+[03:36:49] [npc:join] Claudia has joined the server (0:127.0.0.1)
+[03:37:21] [connection] 127.0.0.1:57219 requests connection cookie.
+[03:37:22] Incoming connection: 127.0.0.1:57219 id: 1
+[03:37:22] [join] Ryan_Spell has joined the server (1:127.0.0.1)
+[03:37:23] [nick] Ryan_Spell nick changed to FIXES_TEMP_NAME
+[03:37:23] [nick] FIXES_TEMP_NAME nick changed to Ryan_Spell
+[03:37:30] - Cuenta cargada: [Ryan_Spell | TIEMPO: 72 MS]
+[03:37:34] [CMD] Ryan_Spell: /dar dinero
+[03:37:38] [CMD] Ryan_Spell: /dar dinero 1 1
+[03:37:38] [debug] Run time error 4: "Array index out of bounds"
+[03:37:38] [debug]  Accessing element at index 65535 past array upper bound 286
+[03:37:38] [debug] AMX backtrace:
+[03:37:38] [debug] #0 0017d968 in public cmd_dar () from Optimus_RolePlay_v2.amx
+[03:37:38] [debug] #1 native CallLocalFunction () [00474110] from samp-server.exe
+[03:37:38] [debug] #2 00021b60 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:38] [debug] #3 0000cba4 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:38] [debug] #4 00000bc0 in public OnPlayerCommandText () from Optimus_RolePlay_v2.amx
+[03:37:45] [CMD] Ryan_Spell: /dar dinero 1
+[03:37:45] [debug] Run time error 4: "Array index out of bounds"
+[03:37:45] [debug]  Accessing element at index 65535 past array upper bound 286
+[03:37:45] [debug] AMX backtrace:
+[03:37:45] [debug] #0 0017d968 in public cmd_dar () from Optimus_RolePlay_v2.amx
+[03:37:45] [debug] #1 native CallLocalFunction () [00474110] from samp-server.exe
+[03:37:45] [debug] #2 00021b60 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:45] [debug] #3 0000cba4 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:45] [debug] #4 00000bc0 in public OnPlayerCommandText () from Optimus_RolePlay_v2.amx
+[03:37:48] [CMD] Ryan_Spell: /dar dinero 1
+[03:37:48] [debug] Run time error 4: "Array index out of bounds"
+[03:37:48] [debug]  Accessing element at index 65535 past array upper bound 286
+[03:37:48] [debug] AMX backtrace:
+[03:37:48] [debug] #0 0017d968 in public cmd_dar () from Optimus_RolePlay_v2.amx
+[03:37:48] [debug] #1 native CallLocalFunction () [00474110] from samp-server.exe
+[03:37:48] [debug] #2 00021b60 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:48] [debug] #3 0000cba4 in ?? () from Optimus_RolePlay_v2.amx
+[03:37:48] [debug] #4 00000bc0 in public OnPlayerCommandText () from Optimus_RolePlay_v2.amx
+[03:38:19] [CMD] Ryan_Spell: /admservice
+[03:38:21] [CMD] Ryan_Spell: /a hola
+[03:38:28] [CMD] Ryan_Spell: /forzarmotor
+[03:39:02] - Cuentas actualizadas: [1 CUENTAS | TIEMPO: 11 MS | 1 JUGADORES]
+[03:39:08] [CMD] Ryan_Spell: /cajero
+[03:39:30] [CMD] Ryan_Spell: /dar dinero 1 1
+[03:39:30] [debug] Run time error 4: "Array index out of bounds"
+[03:39:30] [debug]  Accessing element at index 65535 past array upper bound 286
+[03:39:30] [debug] AMX backtrace:
+[03:39:30] [debug] #0 0017d968 in public cmd_dar () from Optimus_RolePlay_v2.amx
+[03:39:30] [debug] #1 native CallLocalFunction () [00474110] from samp-server.exe
+[03:39:30] [debug] #2 00021b60 in ?? () from Optimus_RolePlay_v2.amx
+[03:39:30] [debug] #3 0000cba4 in ?? () from Optimus_RolePlay_v2.amx
+[03:39:30] [debug] #4 00000bc0 in public OnPlayerCommandText () from Optimus_RolePlay_v2.amx
+[03:39:33] [CMD] Ryan_Spell: /cajero
+[03:41:00] [CMD] Ryan_Spell: /dar 1 arma
+[03:41:05] [CMD] Ryan_Spell: /dar 1 dinero 2
+[03:41:16] - Cuentas actualizadas: [1 CUENTAS | TIEMPO: 13 MS | 1 JUGADORES]
+[03:42:14] [part] Ryan_Spell has left the server (1:1)
+[04:09:33] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[04:10:16] filterscripts = ""  (string)
+[04:10:16] 
+[04:10:16] Server Plugins
+[04:10:16] --------------
+[04:10:16]  Loading plugin: sscanf
+[04:10:16] 
+
+[04:10:16]  ===============================
+
+[04:10:16]       sscanf plugin loaded.     
+
+[04:10:16]          Version:  2.8.1        
+
+[04:10:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:10:16]  ===============================
+
+[04:10:16]   Loaded.
+[04:10:16]  Loading plugin: streamer
+[04:10:16] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[04:10:16]   Loaded.
+[04:10:16]  Loading plugin: crashdetect
+[04:10:16]   CrashDetect v4.10 is OK.
+[04:10:16]   Loaded.
+[04:10:16]  Loading plugin: fixes2
+[04:10:16] 
+
+[04:10:16]  ===============================
+
+[04:10:16]        fixes plugin loaded.     
+
+[04:10:16]    (c) 2012 Alex "Y_Less" Cole
+
+[04:10:16]  ===============================
+
+[04:10:16]   Loaded.
+[04:10:16]  Loaded 4 plugins.
+
+[04:10:16] 
+[04:10:16] Filterscripts
+[04:10:16] ---------------
+[04:10:16]   Loaded 0 filterscripts.
+
+[04:10:16]  
+[04:10:16]  
+[04:10:16]  
+[04:10:16]  ======================================= 
+[04:10:16]  |                                     | 
+[04:10:16]  |        YSI version 1.06.0002        | 
+[04:10:16]  |        By Alex "Y_Less" Cole        | 
+[04:10:16]  |                                     | 
+[04:10:16]  ======================================= 
+[04:10:16]  
+[04:10:16]  
+[04:10:16]  
+[04:10:17] *- Sistema de vehículos cargado (125)
+[04:10:17] *- Sistema de negocios cargado (25)
+[04:10:17] *- Sistema de casas cargado (174)
+[04:10:17] *- Sistema de interiores [CASAS] cargado (18)
+[04:10:17] *- Sistema de familias cargado (5)
+[04:10:17] *- Sistema de garages cargado (64)
+[04:10:17] *- Sistema de portones cargado.
+[04:10:17] *- Sistema de televisores cargado.
+[04:10:17] *- Sistema de modelos cargado. (0.3x)
+[04:10:17] *- Sistema de gangzones cargado.
+[04:10:17] *- Los minerales fueron creados.
+[04:10:17] *- El sistema de NPC fue cargado, conectando Bots..
+[04:10:17] ==============================================
+[04:10:17] *- Todos los npc fueron creados.
+[04:10:17] ==============================================
+[04:10:17]  
+[04:10:17] 	==============================================================
+[04:10:17] 	|                                                            |
+[04:10:17] 	|    Gamemode Optimus RolePlay [2013] Versión: v2-final      |
+[04:10:18] 	|                                                            |
+[04:10:18] 	|    » Programado por Spell <leandro.barbero@hotmail.com>    |
+[04:10:18] 	|                                                            |
+[04:10:18] 	| Copyright 2012-2016 - Todos los derechos reservados        |
+[04:10:18] 	|                                                            |
+[04:10:18] 	==============================================================
+[04:10:18]  
+[04:10:18] *- Gamemode fue cargado en 1184 milisegundos.
+
+
+[04:10:18] Number of vehicle models: 117
+[04:10:18]  
+[04:10:18]  ========================================== 
+[04:10:18]  |                                        | 
+[04:10:18]  |  A new version (v3.09.0684) of YSI is  | 
+[04:10:18]  |            available from:             | 
+[04:10:18]  |                                        | 
+[04:10:18]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[04:10:18]  |                                        | 
+[04:10:18]  | Changelog:                             | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   3.00.0000:                           | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   YSI 3.0 released!  Now includes the  | 
+[04:10:18]  | "y_text" library for better messages,  | 
+[04:10:18]  | and a reworked "y_classes" library.    | 
+[04:10:18]  | Largely documented here                | 
+[04:10:18]  | "http://forum.sa-mp.com/showthread.php | 
+[04:10:18] [connection] 127.0.0.1:60125 requests connection cookie.
+[04:10:18]  | ?t=321092".                            | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   3.01.0002:                           | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   Small fixes to "y_text" and          | 
+[04:10:18]  | "y_classes".                           | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   3.09.0684:                           | 
+[04:10:18]  |                                        | 
+[04:10:18]  |   Reverted to old download location.   | 
+[04:10:18]  | Improved (and fixed) version checks;   | 
+[04:10:18]  | added y_bitmap, y_areas, y_races,      | 
+[04:10:18]  | y_zonenames, better documentation;     | 
+[04:10:18]  | MANY other bug fixes - see the github  | 
+[04:10:18]  | repository for more details:           | 
+[04:10:18]  |                                        | 
+[04:10:18]  ========================================== 
+[04:10:18]  
+[04:10:19] Incoming connection: 127.0.0.1:60125 id: 0
+[04:10:19] [npc:join] Claudia has joined the server (0:127.0.0.1)
+[04:10:40] [connection] 127.0.0.1:61257 requests connection cookie.
+[04:10:41] Incoming connection: 127.0.0.1:61257 id: 1
+[04:10:41] [join] RyanSpell has joined the server (1:127.0.0.1)
+[04:10:42] [part] RyanSpell has left the server (1:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[04:13:59] filterscripts = ""  (string)
+[04:13:59] 
+[04:13:59] Server Plugins
+[04:13:59] --------------
+[04:13:59]  Loading plugin: sscanf
+[04:13:59] 
+
+[04:13:59]  ===============================
+
+[04:13:59]       sscanf plugin loaded.     
+
+[04:13:59]          Version:  2.8.1        
+
+[04:13:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:13:59]  ===============================
+
+[04:13:59]   Loaded.
+[04:13:59]  Loading plugin: streamer
+[04:13:59] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[04:13:59]   Loaded.
+[04:13:59]  Loading plugin: crashdetect
+[04:13:59]   CrashDetect v4.10 is OK.
+[04:13:59]   Loaded.
+[04:13:59]  Loading plugin: fixes2
+[04:13:59] 
+
+[04:13:59]  ===============================
+
+[04:13:59]        fixes plugin loaded.     
+
+[04:13:59]    (c) 2012 Alex "Y_Less" Cole
+
+[04:13:59]  ===============================
+
+[04:13:59]   Loaded.
+[04:13:59]  Loaded 4 plugins.
+
+[04:13:59] 
+[04:13:59] Filterscripts
+[04:13:59] ---------------
+[04:13:59]   Loaded 0 filterscripts.
+
+[04:13:59]  
+[04:13:59]  
+[04:13:59]  
+[04:13:59]  ======================================= 
+[04:13:59]  |                                     | 
+[04:13:59]  |        YSI version 1.06.0002        | 
+[04:13:59]  |        By Alex "Y_Less" Cole        | 
+[04:13:59]  |                                     | 
+[04:13:59]  ======================================= 
+[04:13:59]  
+[04:13:59]  
+[04:13:59]  
+[04:14:00] *- Sistema de vehículos cargado (125)
+[04:14:00] *- Sistema de negocios cargado (25)
+[04:14:00] *- Sistema de casas cargado (174)
+[04:14:00] *- Sistema de interiores [CASAS] cargado (18)
+[04:14:00] *- Sistema de familias cargado (5)
+[04:14:00] *- Sistema de garages cargado (64)
+[04:14:00] *- Sistema de portones cargado.
+[04:14:00] *- Sistema de televisores cargado.
+[04:14:00] *- Sistema de modelos cargado. (0.3x)
+[04:14:00] *- Sistema de gangzones cargado.
+[04:14:00] *- Los minerales fueron creados.
+[04:14:00] *- El sistema de NPC fue cargado, conectando Bots..
+[04:14:01] ==============================================
+[04:14:01] *- Todos los npc fueron creados.
+[04:14:01] ==============================================
+[04:14:01]  
+[04:14:01] 	==============================================================
+[04:14:01] 	|                                                            |
+[04:14:01] 	|    Gamemode Optimus RolePlay [2013] Versión: v2-final      |
+[04:14:01] 	|                                                            |
+[04:14:01] 	|    » Programado por Spell <leandro.barbero@hotmail.com>    |
+[04:14:01] 	|                                                            |
+[04:14:01] 	| Copyright 2012-2016 - Todos los derechos reservados        |
+[04:14:01] 	|                                                            |
+[04:14:01] 	==============================================================
+[04:14:01]  
+[04:14:01] *- Gamemode fue cargado en 1164 milisegundos.
+
+
+[04:14:01] Number of vehicle models: 117
+[04:14:01]  
+[04:14:01]  ========================================== 
+[04:14:01]  |                                        | 
+[04:14:01]  |  A new version (v3.09.0684) of YSI is  | 
+[04:14:01]  |            available from:             | 
+[04:14:01]  |                                        | 
+[04:14:01]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[04:14:01]  |                                        | 
+[04:14:01] [connection] 127.0.0.1:51580 requests connection cookie.
+[04:14:01]  | Changelog:                             | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   3.00.0000:                           | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   YSI 3.0 released!  Now includes the  | 
+[04:14:01]  | "y_text" library for better messages,  | 
+[04:14:01]  | and a reworked "y_classes" library.    | 
+[04:14:01]  | Largely documented here                | 
+[04:14:01]  | "http://forum.sa-mp.com/showthread.php | 
+[04:14:01]  | ?t=321092".                            | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   3.01.0002:                           | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   Small fixes to "y_text" and          | 
+[04:14:01]  | "y_classes".                           | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   3.09.0684:                           | 
+[04:14:01]  |                                        | 
+[04:14:01]  |   Reverted to old download location.   | 
+[04:14:01]  | Improved (and fixed) version checks;   | 
+[04:14:01]  | added y_bitmap, y_areas, y_races,      | 
+[04:14:01]  | y_zonenames, better documentation;     | 
+[04:14:01]  | MANY other bug fixes - see the github  | 
+[04:14:01]  | repository for more details:           | 
+[04:14:01]  |                                        | 
+[04:14:01]  ========================================== 
+[04:14:01]  
+[04:14:02] Incoming connection: 127.0.0.1:51580 id: 0
+[04:14:02] [npc:join] Claudia has joined the server (0:127.0.0.1)
+[04:14:23] [connection] 127.0.0.1:49336 requests connection cookie.
+[04:14:24] Incoming connection: 127.0.0.1:49336 id: 1
+[04:14:24] [join] RyanSpell has joined the server (1:127.0.0.1)
+[04:14:25] [part] RyanSpell has left the server (1:2)

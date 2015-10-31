@@ -20,6 +20,85 @@
 #undef MAX_PLAYERS
 #define MAX_PLAYERS (500)
 
+/*stock GetStringArg(&argumentIndex, dst[], size = sizeof(dst)) {
+	new firstArgIndex = argumentIndex;
+	new b;
+	for (argumentIndex = firstArgIndex, b = 0; argumentIndex < numargs(); argumentIndex++, b++) {
+	    dst[b] = getarg(argumentIndex);
+		if (dst[b] == 0) {
+		    break;
+		}
+	}
+}*/
+
+#define GetStringArg(%1,%2) for(new x = 0; getarg(%1,x) != '\0'; x++) %2[x] = getarg(%1,x)
+
+stock MensajeF(playerID, color, message[], { _, Float, Text3D, Menu, Text, DB, DBResult, bool, File, hex, bit, bit_byte, Bit }:...)
+{
+	if (playerID == INVALID_PLAYER_ID)
+	{
+		return;
+	}
+	new targetString[256];
+	//new message[256];
+	//strcat(message, message2);
+	new length = strlen(message);
+	new argumentIndex = 2;
+	for (new character = 0; character < length; character++)
+	{
+		new isFormatChar;
+		if (message[character] == '%')
+		{
+			if (character + 1 < length)
+			{
+				switch (message[character + 1])
+				{
+					case '%':
+					{
+						strcat(targetString, "%");
+						isFormatChar = true;
+					}
+					case 'c':
+					{
+						argumentIndex++;
+						format(targetString, sizeof(targetString), "%s%c", targetString, getarg(argumentIndex));
+						isFormatChar = true;
+					}
+					case 'd':
+					{
+						argumentIndex++;
+						format(targetString, sizeof(targetString), "%s%d", targetString, getarg(argumentIndex));
+						isFormatChar = true;
+					}
+					case 'f':
+					{
+						argumentIndex++;
+						format(targetString, sizeof(targetString), "%s%f", targetString, getarg(argumentIndex));
+						isFormatChar = true;
+					}
+					case 's':
+					{
+						argumentIndex++;
+						new string[256];
+						GetStringArg(argumentIndex, string);
+						strcat(targetString, string);
+						isFormatChar = true;
+					}
+				}
+			}
+		}
+		if (isFormatChar)
+		{
+			character++;
+		}
+		else
+		{
+			format(targetString, sizeof(targetString), "%s%c", targetString, message[character]);
+		}
+	}
+	SendClientMessage(playerID, color, targetString);
+}
+
 stock SetPVarInt_OP(playerid,name[], value)
 	return (value == 0) ? DeletePVar(playerid, name) : SetPVarInt(playerid,  name, value);
 
@@ -27502,13 +27581,11 @@ CALLBACK: ReturnVehicleDataPos(vehicleid, i)
 	return 1;
 }
 
+/*
 #define BYTES_PER_CELL              4
 
 stock MensajeF(playerid, color, fstring[], {Float, _}:...)
 {
-	/*
-	Y_Less  &|   Zeex
-	*/
     static const STATIC_ARGS = 3;
     new n = (numargs() - STATIC_ARGS) * BYTES_PER_CELL;
     if(n)
@@ -27562,7 +27639,7 @@ stock MensajeF(playerid, color, fstring[], {Float, _}:...)
         }
     }
 }
-
+*/
 // ----==== [ Miembros/Lideres Facciones ] ===--- //
 
 stock EsLSPD(playerid)
@@ -31049,7 +31126,7 @@ CALLBACK: PonerMascara(playerid, bool: poner)
 		InfoJugador[playerid][InfoJ:jNombre] = Cant;
 		if(!IsPlayerConnected(jNombre)) return Error(playerid,"¡Jugador desconectado!");
 		if(!ProxDetectorS(2,playerid,jNombre)) return Error(playerid,"¡Ese jugador está muy lejos tuyo!");
-		if(jNombre == playerid) return Error(playerid,"¡No puedes darte cosas a ti mismo");
+		//if(jNombre == playerid) return Error(playerid,"¡No puedes darte cosas a ti mismo");
 	 	if(!strcmp(Item,"dinero",true))
 		{
 		    if(Cant == -1) return ParamsINC(playerid,"/dar [ID] dinero "#CROJO"[CANTIDAD]");

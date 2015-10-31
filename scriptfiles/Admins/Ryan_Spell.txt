@@ -209,3 +209,6 @@
 [2015/10/21 - 17:26:17] Ingresó
 [2015/10/21 - 17:26:56] se desconectó (Voluntariamente)
 [2015/10/21 - 17:30:48] se desconectó (Voluntariamente)
+[2015/10/31 - 3:37:30] Ingresó
+[2015/10/31 - 3:38:19] se puso en servicio.
+[2015/10/31 - 3:42:13] se desconectó (Voluntariamente)
