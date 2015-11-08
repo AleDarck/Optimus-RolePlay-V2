@@ -20,28 +20,15 @@
 #undef MAX_PLAYERS
 #define MAX_PLAYERS (500)
 
-/*stock GetStringArg(&argumentIndex, dst[], size = sizeof(dst)) {
-	new firstArgIndex = argumentIndex;
-	new b;
-	for (argumentIndex = firstArgIndex, b = 0; argumentIndex < numargs(); argumentIndex++, b++) {
-	    dst[b] = getarg(argumentIndex);
-		if (dst[b] == 0) {
-		    break;
-		}
-	}
-}*/
-
 #define GetStringArg(%1,%2) for(new x = 0; getarg(%1,x) != '\0'; x++) %2[x] = getarg(%1,x)
 
 stock MensajeF(playerID, color, message[], { _, Float, Text3D, Menu, Text, DB, DBResult, bool, File, hex, bit, bit_byte, Bit }:...)
 {
 	if (playerID == INVALID_PLAYER_ID)
 	{
-		return;
+		return 0;
 	}
 	new targetString[256];
-	//new message[256];
-	//strcat(message, message2);
 	new length = strlen(message);
 	new argumentIndex = 2;
 	for (new character = 0; character < length; character++)
@@ -97,6 +84,7 @@ stock MensajeF(playerID, color, message[], { _, Float, Text3D, Menu, Text, DB, D
 		}
 	}
 	SendClientMessage(playerID, color, targetString);
+	return 1;
 }
 
 stock SetPVarInt_OP(playerid,name[], value)
@@ -13334,8 +13322,7 @@ public OnPlayerClickTextDraw(playerid,Text:clickedid)
 	        {
 	            CancelSelectTextDraw(playerid);
 	            SetPVarInt(playerid,"Registrandose",0);
-	  	        GameTextForPlayer(playerid,"~r~Espere...",1000,3);
-		        SetTimerEx("MostrarDatos", 1000, false, "d", playerid);
+				MostrarDatos(playerid);
 				SacarTDRegistro(playerid);
 			}
 			else if(clickedid == FlechaSexo[0])

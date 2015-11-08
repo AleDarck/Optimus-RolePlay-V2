@@ -1192,3 +1192,285 @@ v0.3.7, (C)2005-2015 SA-MP Team
 [04:14:24] Incoming connection: 127.0.0.1:49336 id: 1
 [04:14:24] [join] RyanSpell has joined the server (1:127.0.0.1)
 [04:14:25] [part] RyanSpell has left the server (1:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[02:10:22] filterscripts = ""  (string)
+[02:10:22] 
+[02:10:22] Server Plugins
+[02:10:22] --------------
+[02:10:22]  Loading plugin: sscanf
+[02:10:22] 
+
+[02:10:22]  ===============================
+
+[02:10:22]       sscanf plugin loaded.     
+
+[02:10:22]          Version:  2.8.1        
+
+[02:10:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:10:22]  ===============================
+
+[02:10:22]   Loaded.
+[02:10:22]  Loading plugin: streamer
+[02:10:22] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[02:10:22]   Loaded.
+[02:10:22]  Loading plugin: crashdetect
+[02:10:22]   CrashDetect v4.10 is OK.
+[02:10:22]   Loaded.
+[02:10:22]  Loading plugin: fixes2
+[02:10:22] 
+
+[02:10:22]  ===============================
+
+[02:10:22]        fixes plugin loaded.     
+
+[02:10:22]    (c) 2012 Alex "Y_Less" Cole
+
+[02:10:22]  ===============================
+
+[02:10:22]   Loaded.
+[02:10:22]  Loaded 4 plugins.
+
+[02:10:22] 
+[02:10:22] Filterscripts
+[02:10:22] ---------------
+[02:10:22]   Loaded 0 filterscripts.
+
+[02:10:23]  
+[02:10:23]  
+[02:10:23]  
+[02:10:23]  ======================================= 
+[02:10:23]  |                                     | 
+[02:10:23]  |        YSI version 1.06.0002        | 
+[02:10:23]  |        By Alex "Y_Less" Cole        | 
+[02:10:23]  |                                     | 
+[02:10:23]  ======================================= 
+[02:10:23]  
+[02:10:23]  
+[02:10:23]  
+[02:10:23] *- Sistema de vehículos cargado (125)
+[02:10:23] *- Sistema de negocios cargado (25)
+[02:10:24] *- Sistema de casas cargado (174)
+[02:10:24] *- Sistema de interiores [CASAS] cargado (18)
+[02:10:24] *- Sistema de familias cargado (5)
+[02:10:24] *- Sistema de garages cargado (64)
+[02:10:25] *- Sistema de portones cargado.
+[02:10:25] *- Sistema de televisores cargado.
+[02:10:25] *- Sistema de modelos cargado. (0.3x)
+[02:10:25] *- Sistema de gangzones cargado.
+[02:10:25] *- Los minerales fueron creados.
+[02:10:25] *- El sistema de NPC fue cargado, conectando Bots..
+[02:10:25] ==============================================
+[02:10:25] *- Todos los npc fueron creados.
+[02:10:25] ==============================================
+[02:10:25] admin: 50 dinero: 39
+[02:10:25]  
+[02:10:25] 	==============================================================
+[02:10:25] 	|                                                            |
+[02:10:25] 	|    Gamemode Optimus RolePlay [2013] Versión: v2-final      |
+[02:10:25] 	|                                                            |
+[02:10:25] 	|    » Programado por Spell <leandro.barbero@hotmail.com>    |
+[02:10:25] 	|                                                            |
+[02:10:25] 	| Copyright 2012-2016 - Todos los derechos reservados        |
+[02:10:25] 	|                                                            |
+[02:10:25] 	==============================================================
+[02:10:25]  
+[02:10:25] *- Gamemode fue cargado en 2444 milisegundos.
+
+
+[02:10:25] Number of vehicle models: 117
+[02:10:25]  
+[02:10:25]  ========================================== 
+[02:10:25]  |                                        | 
+[02:10:25]  |  A new version (v3.09.0684) of YSI is  | 
+[02:10:25]  |            available from:             | 
+[02:10:25]  |                                        | 
+[02:10:25]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[02:10:25]  |                                        | 
+[02:10:25]  | Changelog:                             | 
+[02:10:25]  |                                        | 
+[02:10:25]  |   3.00.0000:                           | 
+[02:10:25]  |                                        | 
+[02:10:25] [connection] 127.0.0.1:60458 requests connection cookie.
+[02:10:25]  |   YSI 3.0 released!  Now includes the  | 
+[02:10:25]  | "y_text" library for better messages,  | 
+[02:10:25]  | and a reworked "y_classes" library.    | 
+[02:10:25]  | Largely documented here                | 
+[02:10:25]  | "http://forum.sa-mp.com/showthread.php | 
+[02:10:25]  | ?t=321092".                            | 
+[02:10:25]  |                                        | 
+[02:10:25]  |   3.01.0002:                           | 
+[02:10:25]  |                                        | 
+[02:10:25]  |   Small fixes to "y_text" and          | 
+[02:10:25]  | "y_classes".                           | 
+[02:10:25]  |                                        | 
+[02:10:25]  |   3.09.0684:                           | 
+[02:10:25]  |                                        | 
+[02:10:25]  |   Reverted to old download location.   | 
+[02:10:25]  | Improved (and fixed) version checks;   | 
+[02:10:25]  | added y_bitmap, y_areas, y_races,      | 
+[02:10:25]  | y_zonenames, better documentation;     | 
+[02:10:25]  | MANY other bug fixes - see the github  | 
+[02:10:25]  | repository for more details:           | 
+[02:10:25]  |                                        | 
+[02:10:25]  ========================================== 
+[02:10:25]  
+[02:10:26] Incoming connection: 127.0.0.1:60458 id: 0
+[02:10:26] [npc:join] Claudia has joined the server (0:127.0.0.1)
+[02:25:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[05:09:06] filterscripts = ""  (string)
+[05:09:06] 
+[05:09:06] Server Plugins
+[05:09:06] --------------
+[05:09:06]  Loading plugin: sscanf
+[05:09:06] 
+
+[05:09:06]  ===============================
+
+[05:09:06]       sscanf plugin loaded.     
+
+[05:09:06]          Version:  2.8.1        
+
+[05:09:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:09:06]  ===============================
+
+[05:09:06]   Loaded.
+[05:09:06]  Loading plugin: streamer
+[05:09:06] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[05:09:06]   Loaded.
+[05:09:06]  Loading plugin: crashdetect
+[05:09:06]   CrashDetect v4.10 is OK.
+[05:09:06]   Loaded.
+[05:09:06]  Loading plugin: fixes2
+[05:09:06] 
+
+[05:09:06]  ===============================
+
+[05:09:06]        fixes plugin loaded.     
+
+[05:09:06]    (c) 2012 Alex "Y_Less" Cole
+
+[05:09:06]  ===============================
+
+[05:09:06]   Loaded.
+[05:09:06]  Loaded 4 plugins.
+
+[05:09:06] 
+[05:09:06] Filterscripts
+[05:09:06] ---------------
+[05:09:06]   Loaded 0 filterscripts.
+
+[05:09:07]  
+[05:09:07]  
+[05:09:07]  
+[05:09:07]  ======================================= 
+[05:09:07]  |                                     | 
+[05:09:07]  |        YSI version 1.06.0002        | 
+[05:09:07]  |        By Alex "Y_Less" Cole        | 
+[05:09:07]  |                                     | 
+[05:09:07]  ======================================= 
+[05:09:07]  
+[05:09:07]  
+[05:09:07]  
+[05:09:07] *- Sistema de vehículos cargado (125)
+[05:09:08] *- Sistema de negocios cargado (25)
+[05:09:08] *- Sistema de casas cargado (174)
+[05:09:08] *- Sistema de interiores [CASAS] cargado (18)
+[05:09:08] *- Sistema de familias cargado (5)
+[05:09:08] *- Sistema de garages cargado (64)
+[05:09:09] *- Sistema de portones cargado.
+[05:09:09] *- Sistema de televisores cargado.
+[05:09:09] *- Sistema de modelos cargado. (0.3x)
+[05:09:09] *- Sistema de gangzones cargado.
+[05:09:09] *- Los minerales fueron creados.
+[05:09:09] *- El sistema de NPC fue cargado, conectando Bots..
+[05:09:09] ==============================================
+[05:09:09] *- Todos los npc fueron creados.
+[05:09:09] ==============================================
+[05:09:09]  
+[05:09:09] 	==============================================================
+[05:09:09] 	|                                                            |
+[05:09:09] 	|    Gamemode Optimus RolePlay [2013] Versión: v2-final      |
+[05:09:09] 	|                                                            |
+[05:09:09] 	|    » Programado por Spell <leandro.barbero@hotmail.com>    |
+[05:09:09] 	|                                                            |
+[05:09:09] 	| Copyright 2012-2016 - Todos los derechos reservados        |
+[05:09:09] 	|                                                            |
+[05:09:09] 	==============================================================
+[05:09:09]  
+[05:09:09] *- Gamemode fue cargado en 2241 milisegundos.
+
+
+[05:09:09] Number of vehicle models: 117
+[05:09:09]  
+[05:09:09]  ========================================== 
+[05:09:09]  |                                        | 
+[05:09:09]  |  A new version (v3.09.0684) of YSI is  | 
+[05:09:09]  |            available from:             | 
+[05:09:09]  |                                        | 
+[05:09:09]  |     www.y-less.com/YSI/YSI_1.0.zip     | 
+[05:09:09]  |                                        | 
+[05:09:09]  | Changelog:                             | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   3.00.0000:                           | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   YSI 3.0 released!  Now includes the  | 
+[05:09:09]  | "y_text" library for better messages,  | 
+[05:09:09]  | and a reworked "y_classes" library.    | 
+[05:09:09]  | Largely documented here                | 
+[05:09:09]  | "http://forum.sa-mp.com/showthread.php | 
+[05:09:09]  | ?t=321092".                            | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   3.01.0002:                           | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   Small fixes to "y_text" and          | 
+[05:09:09]  | "y_classes".                           | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   3.09.0684:                           | 
+[05:09:09]  |                                        | 
+[05:09:09]  |   Reverted to old download location.   | 
+[05:09:09]  | Improved (and fixed) version checks;   | 
+[05:09:09]  | added y_bitmap, y_areas, y_races,      | 
+[05:09:09]  | y_zonenames, better documentation;     | 
+[05:09:09]  | MANY other bug fixes - see the github  | 
+[05:09:09] [connection] 127.0.0.1:51245 requests connection cookie.
+[05:09:09]  | repository for more details:           | 
+[05:09:09]  |                                        | 
+[05:09:09]  ========================================== 
+[05:09:09]  
+[05:09:10] Incoming connection: 127.0.0.1:51245 id: 0
+[05:09:11] [npc:join] Claudia has joined the server (0:127.0.0.1)
+[05:09:57] [connection] 127.0.0.1:61924 requests connection cookie.
+[05:09:58] Incoming connection: 127.0.0.1:61924 id: 1
+[05:09:58] [join] yesjustanother_name has joined the server (1:127.0.0.1)
+[05:09:58] [nick] yesjustanother_name nick changed to FIXES_TEMP_NAME
+[05:09:58] [nick] FIXES_TEMP_NAME nick changed to Yesjustanother_Name
+[05:10:18] - Yesjustanother Name se registró, va a configurar su personaje ( Registro )
+[05:10:43] - Yesjustanother Name pasó el test, su registro se completó
+[05:11:23] - Cuentas actualizadas: [1 CUENTAS | TIEMPO: 4 MS | 1 JUGADORES]
+[05:15:56] [part] Yesjustanother_Name has left the server (1:1)
+[05:18:42] --- Server Shutting Down.
